@@ -1,0 +1,5 @@
+{
+  "name": "Aurora Background Demo",
+  "description": "A demo of the Aurora Background component using Tailwind CSS and Framer Motion.",
+  "requestFramePermissions": []
+}
